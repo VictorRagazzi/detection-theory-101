@@ -1,5 +1,6 @@
+# IEEE Latin America Transactions Submission 9006
 
-# The repository accessed is a repository dedicated to storing all the codes used in the work published as "Comparison of sequential test strategies based on Monte Carlo simulations in the detection of auditory steady-state responses"
+The repository accessed is a repository dedicated to storing all the codes used in the work published as "Comparison of sequential test strategies based on Monte Carlo simulations in the detection of auditory steady-state responses"
 
 Authors:
 Victor H. de S. S. Ragazzi (https://orcid.org/0009-0007-0262-1002)
