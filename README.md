@@ -1,4 +1,15 @@
-# detection-theory-101
+
+# The repository accessed is a repository dedicated to storing all the codes used in the work published as "Comparison of sequential test strategies based on Monte Carlo simulations in the detection of auditory steady-state responses"
+
+Authors:
+Victor H. de S. S. Ragazzi (https://orcid.org/0009-0007-0262-1002)
+Alexandre G. Caldeira (https://orcid.org/0000-0002-4851-3417)
+Patrícia N. Vaz (https://orcid.org/0000-0003-4503-6288)
+Felipe Antunes (https://orcid.org/0000-0001-5913-9777)
+Leonardo B. Felix (https://orcid.org/0000-0002-6184-2354)
+
+If you have any questions, please contact the first author by email:
+victorhugosouza0@gmail.com
 
 parametros2015 - Generates the possible Mstep variations for optimizing the parameters of Mario Cebulla's 2015 strategy
 
